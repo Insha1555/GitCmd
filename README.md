@@ -2,4 +2,4 @@
 
 #Learning the Basic Git Cmd using the vscode
 
-#This is my secong command
+#This is my second command
